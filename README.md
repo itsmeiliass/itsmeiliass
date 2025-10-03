@@ -11,12 +11,12 @@
 
 ## About Me  
 - Master’s in **Intelligent Information Systems Engineering**  
-- Strong focus on **Backend Development** (Spring Boot, Flask, Express.js, Node.js, REST APIs, Microservices)  
-- Experienced in **Artificial Intelligence** (NLP, classification, regression, computer vision, data preprocessing)  
+- Strong focus on **Backend Development** (Spring Boot, Flask, Express.js, Node.js, REST APIs, Microservices , Test driven developement ... )  
+- Experienced in **Artificial Intelligence** (NLP, classification, regression, computer vision, data preprocessing ... )  
 - Skilled in **Database Design & Optimization** (MySQL, PostgreSQL, MongoDB, Firebase)  
 - Familiar with **Agile Scrum, UML design, CI/CD pipelines, and scalable system architectures**  
 - Projects include:  
-  - **Sentiment Analysis Web Application** (real-time NLP classification)  
+  - **Sentiment Analysis Web Application** (real-time NLP classification for twitter comments )  
   - **AI-based Olive Classification** (computer vision for agriculture)  
   - **Home Services Platform** (Spring Boot + React full-stack)  
   - **and more...**  
