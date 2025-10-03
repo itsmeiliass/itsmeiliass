@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iliass Bargache</h1>
-<h3 align="center">Software Engineering & AI Student | Backend Development • NLP • Machine Learning</h3>
+<h3 align="center">Software Engineering & AI  | Backend Development • NLP • Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
